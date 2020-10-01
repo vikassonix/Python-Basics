@@ -1,4 +1,5 @@
 till=3
+print("diamond pattern")
 for i in range(0,till):
     for j in range(1,i+2):
         if((j)!=i+1):
